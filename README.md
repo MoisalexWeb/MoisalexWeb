@@ -8,12 +8,15 @@
 Here are some ideas to get you started:
 -->
 # 💫 About Me:
-My name is Moisés Caraballo, and I'm 23 years old. I'm a Computer Science Engineer and Frontend Developer. I'm passionate about creating intuitive and efficient web interfaces.
-I'm constantly learning new technologies and best practices.
+<h4>Computer Science Engineer &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; Frontend Developer &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; 23 years old</h4>
+
+<h5>📍 Venezuela, Venezuela, El Tigre City, Anzoátegui State</h5>
+
+I'm passionate about creating intuitive and efficient web interfaces and constantly learning new technologies and best practices.
 
 - 🔭 I’m currently working on my own projects and looking to expand my horizons in constantly evolving technologies.
-
-- ⚡ Fun fact: Fun fact: I like sports, especially soccer and calisthenics, which I practice in my free time.
+- 🚀 Open to remote opportunities worldwide.
+- 🤸‍♂ I like sports, I do **Calisthenics** in my free time.
 
 
 
